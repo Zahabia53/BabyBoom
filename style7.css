@@ -1,0 +1,166 @@
+
+
+	#title {background-color: rgb(128, 158, 97);}
+
+	.container-fluid {padding:3% 15%;
+	}
+
+	h1{
+	  font-family: "Montserrat";
+	  font-size: 3rem;
+	  line-height:1.5;
+	  color:#fff;} 
+
+	  h2{
+	font-size:2rem;
+	line-height:2 !important;
+	margin:15px;
+	}
+
+
+
+	}
+
+	 h3{font-family: "ubuntu"
+	    font-weight:bold;}
+
+	 p{color:#8f8f8f;
+	 	font-weight: bold}
+
+	.navbar{
+	  padding:0rem 0rem 4.5rem !important;
+	}
+
+
+	.navbar-brand {
+	font-family: "Ubuntu"!important;
+	font-size: 2.5rem !important;
+	font-weight:bold;
+	display: inline-block;
+	padding-top: .3125rem;
+	padding-bottom: .3125rem;
+	margin-right: 1rem;
+	font-size: 1.25rem;
+	line-height: inherit;
+    white-space: nowrap;
+	}
+
+	.nav-item {
+	 
+	 padding: 0 18px;
+	}
+
+	.title-image{
+	width: 60%;
+	transition:transform 1s;
+	 }
+
+	 .title-image:hover {
+	 	transform:scale(0.9);
+	 }
+
+	 .testimonial-image{
+	  width: 30%;
+	  margin:10%;
+	  vertical-align:middle;
+	  border-radius:60%;
+	}
+
+	
+
+
+
+	.press-logo{width:15%;
+	margin:20px 20px 50px}
+
+	.nav-link {
+	  font-size:1.2rem;
+	  font-family:"ubuntu";
+	  font-weight:bold;
+	}
+
+	.download-button {
+	  margin:5% 3% 5% 0%;
+	}
+
+
+	 #features {padding:7% 15%;}
+
+	 .feature-box {text-align: center;
+	 	padding:5%;}
+
+	 .icon {color:rgb(128, 158, 97);
+	 margin-bottom:1rem;
+	 transition: color 1s;
+
+	  }
+
+	 .icon:hover {
+	 	color: rgb(18, 28, 8);
+	 }
+
+	 #testimonials {
+	  
+	  text-align:center;
+	  background-color: rgb(128, 158, 97);
+	  color:#fff;
+	}
+
+	.carousel-item{padding:7% 15%}
+
+	#press{
+		background-color:rgb(128, 158, 97);
+		text-align:center;
+		padding-bottom:10%;}
+
+	#pricing{padding:100px;
+		text-align: center;}
+
+	.baby-plan{
+	margin:15px 15px 15px 0px;
+	font-weight: bolder;
+	font-size: 3rem;}
+
+
+.pricing-column{
+  padding:3% 2%;
+}
+
+@media (max-width:1028px){
+  #title{text-align:center;}
+  .title-image {
+  position:static;
+  transform:rotate(0)}
+
+}
+
+#cta {
+  background-color:rgb(128, 158, 97) ;
+  color:#fff;
+  text-align: center;
+
+}
+
+.true-love{
+font-size:3rem !important;
+font-style: "montserrat bolder"
+font-weight: bolder;
+text-align: center;
+padding-top: 10%;}
+
+
+.cta-button{
+  margin:5% 1% 10% 1%;
+
+}
+
+#footer{
+padding:100px;
+text-align: center;
+background-color: #fff;
+
+}
+
+.copyright{padding-top: 40px;}
+
+.fab{ margin: 0 15px 0 0;}
